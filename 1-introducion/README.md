@@ -8,7 +8,7 @@
 ## Information about the module
 
 * ViBOT & MsCV & MAIA - Universite de Bourgogne
-* **Instructors:** D\'esire Sidib\'e, Mojdeh Rastgoo.
+* **Instructors:** Desire Sidibe, Mojdeh Rastgoo.
 * **Contact:** [Contact email](mailto: mojdeh.rastgoo@gmail.com) for personal queries.
 
 ## Course description
