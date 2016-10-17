@@ -73,7 +73,6 @@
 *.lol
 
 # makeidx
-=======
 # igonre the regular extra files from latex
 *.acn
 *.acr
@@ -85,12 +84,10 @@
 *.glg
 *.glo
 *.gls
->>>>>>> 4f009c977bae4ba7c74a648d4304cb12bd2c5e97
 *.idx
 *.ilg
 *.ind
 *.ist
-<<<<<<< HEAD
 
 # minitoc
 *.maf
