@@ -30,6 +30,9 @@
 *.synctex.gz(busy)
 *.pdfsync
 
+## ipython
+.ipynb* 
+
 ## Auxiliary and intermediate files from other packages:
 
 # algorithms
